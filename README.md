@@ -20,6 +20,8 @@ Occolus addresses these challenges by combining computational chemistry with mod
 
 ## What Occolus Does
 
+https://github.com/user-attachments/assets/c78b4d9b-431d-4d73-ab06-1168aa29101e
+
 ### Intelligent Target Discovery
 
 Search for any protein using UniProt IDs, gene names, or disease associations. Occolus retrieves comprehensive protein data including amino acid sequences, functional annotations, organism information, and known binding sites. The platform automatically identifies relevant drug targets and maps them to existing therapeutic compounds.
